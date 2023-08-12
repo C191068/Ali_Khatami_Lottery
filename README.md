@@ -21,13 +21,10 @@ Here the above we opened a new folder <br>
 
 Then we run the above command ```yarn add --dev hardhat``` <br>
 
-![l3](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/6b7a9180-284c-453b-90c3-9da608a05ecf)
+![l4](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/1aa9735d-d9fe-4c2e-a864-b7b5f3f2b943)
 
-Then we run the above command <br>
+Then we wil give the above command yarn hardhat and then select ```Create an empty hardhat.config.js``` <br>
 
-![l4](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/7e99cb44-a1fb-4ace-882e-2e8d9d230e2d)
-
-Then we run the above command <br>
 
 
 
