@@ -27,6 +27,8 @@ Then we wil give the above command yarn hardhat and then select ```Create an emp
 
 because we gonna add customization to our project <br>
 
+![l5](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/b4d45b17-3c54-4ecf-85f7-8c307e5ead55)
+Now we have here blank hardhat.config.js file <br>
 
 
 
