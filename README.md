@@ -74,6 +74,9 @@ here the soilidity version we are using is ```0.8.19``` <br>
 
 
 
+### akrkRaffle.sol setup
+
+
 
 
 
