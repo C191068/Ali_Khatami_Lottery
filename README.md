@@ -25,6 +25,8 @@ Then we run the above command ```yarn add --dev hardhat``` <br>
 
 Then we wil give the above command yarn hardhat and then select ```Create an empty hardhat.config.js``` <br>
 
+because we gonna add customization to our project <br>
+
 
 
 
