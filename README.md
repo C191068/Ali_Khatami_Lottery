@@ -53,6 +53,9 @@ https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc/blob/main/har
 
 we copy the above black arrow part <br>
 
+![l9](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/5998adf0-3a3c-4b26-a767-07e08bac0a75)
+
+Then we paste it at the above hardhat.config.js file <br>
 
 
 
