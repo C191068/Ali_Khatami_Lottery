@@ -101,6 +101,9 @@ Here we want the people to enter the lottery(paying some amount) <br>
 We probably want to pick a random winner and we want this to be verifiably random <br>
 
 we want this to be untamperable <br>
+We want winners to be selected every X minutes , months ,years <br>
+
+
 
 
 
