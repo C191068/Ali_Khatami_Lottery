@@ -76,6 +76,17 @@ here the soilidity version we are using is ```0.8.19``` <br>
 
 ### akrkRaffle.sol setup
 
+![l13](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/35e443bc-9346-4fc4-b835-323e75c8a61a)
+
+We will give the following command above to install node modules <br>
+
+```
+
+ npm install --save-dev @nomicfoundation/hardhat-toolbox
+
+```
+
+
 
 
 
