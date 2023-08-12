@@ -69,5 +69,17 @@ here ```printwidth=100``` means how long a line could be before it goes to a new
 
 then we can see all the semicolon goes away from tyhe above <br>
 
+![l12](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/51d15a77-448a-4234-845a-e451f2156d4c)
+here the soilidity version we are using is ```0.8.19``` <br>
+
+
+
+
+
+
+
+
+
+
 
 
