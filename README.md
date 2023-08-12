@@ -33,6 +33,18 @@ Now we have here blank hardhat.config.js file <br>
 ![l6](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/07b858b6-7461-48e3-9506-bdf0f13420a5)
 To bring yarn.lock we give the above two commands <br>
 
+![l7](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/ce37199a-fde8-4532-b282-ab7b27c0fe61)
+
+Then we give the below command above <br>
+
+```
+yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomiclabs/hardhat-etherscan @nomiclabs/hardhat-waffle chai ethereum-waffle hardhat hardhat-contract-sizer hardhat-deploy hardhat-gas-reporter prettier prettier-plugin-solidity solhint solidity-coverage dotenv
+
+```
+
+
+
+
 
 
 
