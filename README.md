@@ -42,6 +42,8 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 
 ```
 
+Remember at the end of the day the best for you and best for your job is the tool that you like the most <br>
+
 
 
 
