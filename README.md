@@ -113,6 +113,10 @@ Since we are picking some random number and we have some event driven execution 
 
 For that we need to use Chainlink Oracle since we need to get randomness from outside the blockchain <br>
 
+We gonna need to have that automated execution <br>
+
+
+
 
 
 
