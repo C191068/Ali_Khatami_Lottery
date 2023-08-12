@@ -98,7 +98,7 @@ we create a new file called ```akrkLottery.sol``` <br>
 
 Here we want the people to enter the lottery(paying some amount) <br>
 
-We probably want to pick a random winner <br>
+We probably want to pick a random winner and we want this to be verifiably random <br>
 
 
 
