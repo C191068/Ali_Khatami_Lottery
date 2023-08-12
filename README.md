@@ -116,6 +116,9 @@ For that we need to use Chainlink Oracle since we need to get randomness from ou
 We gonna need to have that automated execution <br>
 
 A smart contract can execute itself we need somebody automatically trigger this <br>
+To trigger we need to use Chainlink keepers <br>
+
+
 
 
 
