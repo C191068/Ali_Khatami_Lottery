@@ -8,4 +8,18 @@ This application will fix McDonald issue that we talked much earlier <br>
 
 To do this to get a pure verifiable random number we gonna use Chainlink VRF to get pure verifiable random number <br>
 
+Then we gonna use chainlink keepers to trigger the automation to automatically have one of these winners get <br>
+
+picked every time one of those time intervals is up <br>
+
+
+### Hardhat Setup
+![l1](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/d673276a-9eb6-469e-b1e7-f9e8f4ba00bb)
+Here the above we opened a new folder <br>
+
+![l2](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/0cdbcbaf-9b2a-4d0c-8e8e-958f59f09b0d)
+
+Then we run the above command ```yarn add --dev hardhat``` <br>
+
+
 
