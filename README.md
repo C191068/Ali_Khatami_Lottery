@@ -103,7 +103,7 @@ We probably want to pick a random winner and we want this to be verifiably rando
 we want this to be untamperable <br>
 We want winners to be selected every X minutes , months ,years <br>
 
-
+We want to deploy this smart contract without any maintanence , without anybody touch it 
 
 
 
