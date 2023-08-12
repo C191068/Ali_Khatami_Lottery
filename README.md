@@ -111,6 +111,8 @@ This is the power of smart contracts <br>
 
 Since we are picking some random number and we have some event driven execution <br>
 
+For that we need to use Chainlink Oracle <br>
+
 
 
 
