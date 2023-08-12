@@ -107,6 +107,7 @@ We want to deploy this smart contract almost without any maintanence , almost no
 
 It will just automatically run forever <br>
 
+This is the power of smart contracts <br>
 
 
 
