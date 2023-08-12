@@ -45,6 +45,14 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 Remember at the end of the day the best for you and best for your job is the tool that you like the most <br>
 
 
+![l8](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/3b5c8e59-84d8-4502-8a72-664e01138cf8)
+
+by going to the link below:
+
+https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc/blob/main/hardhat.config.js
+
+we copy the above black arrow part <br>
+
 
 
 
