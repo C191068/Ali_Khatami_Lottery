@@ -131,6 +131,9 @@ yarn add @nomiclabs/hardhat-waffle @nomiclabs/hardhat-etherscan hardhat-deploy s
 otherwise we can download those separately searching google <br>
 
 
+![l18](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/99f0078a-ac83-438e-9544-19dd670f6677)
+
+Here we have compiled our solidity code for testing <br>
 
 
 
