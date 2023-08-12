@@ -137,6 +137,8 @@ Here we have compiled our solidity code for testing <br>
 
  For this contract we gonna  have entrance fee instead of USD based it gonna be native asset <br>
 
+ For this we don't have to set minimum USD price we gonna set minimum Eth price <br>
+
  
 
 
