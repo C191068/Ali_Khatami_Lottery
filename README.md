@@ -87,6 +87,9 @@ We will give the following command above to install node modules <br>
 ```
 
 
+![l14](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/2638a951-6a91-4bd0-a8bf-fe40013648dd)
+
+We create a new folder ```contracts``` <br>
 
 
 
