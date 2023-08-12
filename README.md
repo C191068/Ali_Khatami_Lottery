@@ -57,7 +57,17 @@ we copy the above black arrow part <br>
 
 Then we paste it at the above hardhat.config.js file <br>
 
+![l10](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/b7bff0ae-9319-42bd-bc01-19ab51911e4b)
 
+here we have created a new file .prettierrc and paste the code by going to the following link <br>
+
+https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc/blob/main/.prettierrc <br>
+
+here ```printwidth=100``` means how long a line could be before it goes to a new line <br>
+
+![l11](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/b1100afa-e926-4cff-9825-b43af282b5ac)
+
+then we can see all the semicolon goes away from tyhe above <br>
 
 
 
