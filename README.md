@@ -135,7 +135,9 @@ otherwise we can download those separately searching google <br>
 
 Here we have compiled our solidity code for testing <br>
 
+ For this contract we gonna  have entrance fee instead of USD based it gonna be native asset <br>
 
+ 
 
 
 
