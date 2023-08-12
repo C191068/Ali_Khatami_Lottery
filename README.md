@@ -118,6 +118,15 @@ We gonna need to have that automated execution <br>
 A smart contract can execute itself we need somebody automatically trigger this <br>
 To trigger we need to use Chainlink keepers <br>
 
+![l16](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/a2376b90-4d63-4e38-b856-c48b243b542e)
+here we use command below to installed the hardhat waffle package above  <br>
+
+```
+yarn add -D @nomiclabs/hardhat-waffle ethereum-waffle
+
+```
+
+
 
 
 
