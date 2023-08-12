@@ -109,6 +109,8 @@ It will just automatically run forever <br>
 
 This is the power of smart contracts <br>
 
+Since we are picking some random number and we have some event driven execution <br>
+
 
 
 
