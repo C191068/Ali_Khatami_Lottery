@@ -92,6 +92,9 @@ We will give the following command above to install node modules <br>
 We create a new folder ```contracts``` <br>
 
 
+![l15](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/e5a89c8b-63d9-4897-bd6f-949b53da5126)
+
+we create a new file called ```akrkLottery.sol``` <br>
 
 
 
