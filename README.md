@@ -206,6 +206,11 @@ hardhat.config.js code above
 .prettierrc code above
 
 
+![l19](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/f9102241-7c79-4663-9a0a-186ca7817515)
+
+We have made the above variable immutable as it will save some gas <br>
+
+
 
 
 
