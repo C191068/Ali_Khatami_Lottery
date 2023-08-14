@@ -222,6 +222,10 @@ If users does not send enough ETH it will revert the above error message <br>
 
 We probably also nedd to track of all the users who entered the lottery <br>
 
+We will cover our both storage and non storage variables under state variables section <br>
+
+
+
 
 
 
