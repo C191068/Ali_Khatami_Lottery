@@ -235,7 +235,10 @@ To know who are in the participant array we created the above function <br>
 here enterlottery will be pubic and payable <br>
 
 
+![l24](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/c2cdb46a-6594-438b-bfea-04c84f9a764d)
 
+
+By adding the above line we can keep track of participants entering the lottery <br>
 
 
 
