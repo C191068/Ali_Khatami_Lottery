@@ -225,7 +225,14 @@ We probably also nedd to track of all the users who entered the lottery <br>
 We will cover our both storage and non storage variables under state variables section <br>
 
 
+![l22](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/eaafa32a-c35a-4c09-b36f-d2071b19ffb1)
 
+To know who are in the participant array we created the above function <br>
+
+
+![l23](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/ab26d1df-fa9a-4515-8710-e232fd5183fa)
+
+here enterlottery will be pubic and payable <br>
 
 
 
