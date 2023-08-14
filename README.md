@@ -211,6 +211,9 @@ hardhat.config.js code above
 We have made the above variable immutable as it will save some gas <br>
 
 
+![l20](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/d7833958-98e6-4ce7-bb45-ffa9c76f6da1)
+
+Noow we have a function that users can call to get the entrance fee <br>
 
 
 
