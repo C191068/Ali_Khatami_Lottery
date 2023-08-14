@@ -215,6 +215,9 @@ We have made the above variable immutable as it will save some gas <br>
 
 Noow we have a function that users can call to get the entrance fee <br>
 
+![l21](https://github.com/C191068/Ali_Khatami_Lottery/assets/89090776/9add38e7-2ba8-473f-87f2-f39ce281c087)
+
+If users does not send enough ETH it will revert the above error message <br>
 
 
 
