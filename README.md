@@ -220,6 +220,8 @@ Noow we have a function that users can call to get the entrance fee <br>
 If users does not send enough ETH it will revert the above error message <br>
 
 
+We probably also nedd to track of all the users who entered the lottery <br>
+
 
 
 
